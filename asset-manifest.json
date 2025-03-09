@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/intelion-page/static/css/main.54a24c06.css",
+    "main.js": "/intelion-page/static/js/main.e3d565bb.js",
+    "static/js/453.2eda77a4.chunk.js": "/intelion-page/static/js/453.2eda77a4.chunk.js",
+    "static/media/img1.jpg": "/intelion-page/static/media/img1.8a4a5015088a14a8bf52.jpg",
+    "index.html": "/intelion-page/index.html",
+    "main.54a24c06.css.map": "/intelion-page/static/css/main.54a24c06.css.map",
+    "main.e3d565bb.js.map": "/intelion-page/static/js/main.e3d565bb.js.map",
+    "453.2eda77a4.chunk.js.map": "/intelion-page/static/js/453.2eda77a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a24c06.css",
+    "static/js/main.e3d565bb.js"
+  ]
+}
